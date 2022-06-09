@@ -1,5 +1,4 @@
-<h2> Hi, I'm Scarlet Rosa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"><br>
+<h2> Hi, I'm Scarlet Rosa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><br>
 
 <p><em>Full-Stack Developer from Brasil, based in Barcelona Spain</br></em></p>
 
