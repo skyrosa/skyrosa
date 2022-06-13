@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/skyrosa](github.com/skyrosa)
 
+- 💻 I'm currently working on: **Laravel/React project**
+
 - 📫 How to reach me **eusouscarlett@gmail.com**<br>
 
 <h3 align="left">Languages and Tools:</h3>
