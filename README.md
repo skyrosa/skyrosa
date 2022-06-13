@@ -6,7 +6,7 @@
 
 <p><em>Full-Stack Developer from Brasil, based in Barcelona Spain</br></em></p><br>
 
-- 🔭 You can see a example of my projects here: etrivial.netlify.app
+- 🔭 You can see a example of my projects here: [e-Trivial](https://etrivial.netlify.app/)
 
 - 🌱 I’m currently learning **React, Blade, Vue3, Angular, Jest.**
 
