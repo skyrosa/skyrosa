@@ -6,8 +6,6 @@
 
 <p><em>Full-Stack Developer from Brasil, based in Barcelona Spain</br></em></p><br>
 
-☪
-
 In my life I have always felt that I am inside an elevator.
 A small box with a view of the outside world on one side and a mirror to see myself inside.
 
