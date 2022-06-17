@@ -6,6 +6,22 @@
 
 <p><em>Full-Stack Developer from Brasil, based in Barcelona Spain</br></em></p><br>
 
+☪
+
+In my life I have always felt that I am inside an elevator.
+A small box with a view of the outside world on one side and a mirror to see myself inside.
+
+I come from a typical Brazilian low class reality.
+From a very young age I started working, I had to quit my studies, I graduated late.
+I went through several areas of work, which, although people know them as such, I dare not call "underemployment".
+I used the facility I always had with drawing and painting and specialized in body art, becoming a tattoo artist and body-piercer, self-employed and an entrepreneur in my own business. And I used my great facility to dream big to drop everything and move from continent to continent to study programming, coming to the beautiful city of Barcelona.
+Today, I progress in the new dream that I am feeding, step by step entering this new world of coding.
+Some floors of this elevator took longer to go up, stopped longer in the same place, got stuck, broke.
+At some point I realized that this great building was a skyscraper. No matter what happens, I will not stop climbing until I reach the top.
+
+Send me a message if you are interested in the profile of a perspicacious and persistent person.
+I'll be happy to talk to you ❥
+
 - 🔭 You can see a example of my projects here: [e-Trivial](https://etrivial.netlify.app/)
 
 - 🌱 I’m currently learning **React, Blade, Vue3, Angular, Jest.**
