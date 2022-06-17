@@ -8,7 +8,7 @@
 
 In my life I have always felt that I am inside an elevator.
 A small box with a view of the outside world on one side and a mirror to see myself inside.
-
+<br>
 I come from a typical Brazilian low class reality.
 From a very young age I started working, I had to quit my studies, I graduated late.
 I went through several areas of work, which, although people know them as such, I dare not call "underemployment".
@@ -16,7 +16,7 @@ I used the facility I always had with drawing and painting and specialized in bo
 Today, I progress in the new dream that I am feeding, step by step entering this new world of coding.
 Some floors of this elevator took longer to go up, stopped longer in the same place, got stuck, broke.
 At some point I realized that this great building was a skyscraper. No matter what happens, I will not stop climbing until I reach the top.
-
+<br>
 Send me a message if you are interested in the profile of a perspicacious and persistent person.
 I'll be happy to talk to you ❥
 
