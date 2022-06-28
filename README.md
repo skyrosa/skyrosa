@@ -1,6 +1,8 @@
 <h2> Hi, I'm Scarlet Rosa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><br>
+
 [![Linkedin: skyrosa](https://img.shields.io/badge/-skyrosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skyrosa/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Scarlet](https://img.shields.io/github/followers/skyrosa?label=follow&style=social)](https://github.com/skyrosa)<br>
+[![GitHub Scarlet](https://img.shields.io/github/followers/skyrosa?label=follow&style=social)](https://github.com/skyrosa)
+<br>
 <img align="right" src="https://github.com/skyrosa/skyrosa/blob/main/Ellipse%201.png?raw=true" alt="profile" class="shrinkToFit" width="150" height="150" border-radius=100%><br>
 
 <h3><em>Full-Stack Developer from Brasil, based in Barcelona Spain</br></em></h3><br>
