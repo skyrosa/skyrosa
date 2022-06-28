@@ -1,5 +1,5 @@
 <h2> Hi, I'm Scarlet Rosa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2><br>
-<img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQGQiZPAflf7Og/profile-displayphoto-shrink_800_800/0/1652722411714?e=1660176000&amp;v=beta&amp;t=XrJMQE1agZ_sP6j-A7Z-6Od3tm8rOtvLhr6ALN9gBgY" alt="profile" class="shrinkToFit" width="150" height="150" border-radius=100%></br>
+<img align="right" src="https://github.com/skyrosa/skyrosa/blob/main/Ellipse%201.png?raw=true" alt="profile" class="shrinkToFit" width="150" height="150" border-radius=100%></br>
 
 [![Linkedin: skyrosa](https://img.shields.io/badge/-skyrosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skyrosa/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Scarlet](https://img.shields.io/github/followers/skyrosa?label=follow&style=social)](https://github.com/skyrosa)<br>
